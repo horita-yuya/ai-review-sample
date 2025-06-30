@@ -1,0 +1,2 @@
+- 'any' type is not good, instead use concrete types.
+- Utility types like **Partial**, **Required**, **Readonly** are very good.
